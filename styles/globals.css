@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.purple-font{
+    color: #3B3B98;
+}
+.purple-bg{
+    background: #3B3B98;
+}
